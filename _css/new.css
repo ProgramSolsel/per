@@ -1,0 +1,12 @@
+body {
+    background-image: url(_background/Psycho-Pass.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.continer {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
